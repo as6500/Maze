@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeServer", "MazeServer\MazeServer.csproj", "{74E76C08-64DB-4D1F-A7C3-DFC853BC86C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeClient", "..\MazeClient\MazeClient\MazeClient.csproj", "{1D577B42-E862-4367-A0CD-C1343C15534F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "..\Shared\Shared\Shared.csproj", "{04E82E6F-DAFB-4A1B-A3E9-320B711751EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E76C08-64DB-4D1F-A7C3-DFC853BC86C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E76C08-64DB-4D1F-A7C3-DFC853BC86C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E76C08-64DB-4D1F-A7C3-DFC853BC86C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E76C08-64DB-4D1F-A7C3-DFC853BC86C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D577B42-E862-4367-A0CD-C1343C15534F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D577B42-E862-4367-A0CD-C1343C15534F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D577B42-E862-4367-A0CD-C1343C15534F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D577B42-E862-4367-A0CD-C1343C15534F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E82E6F-DAFB-4A1B-A3E9-320B711751EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E82E6F-DAFB-4A1B-A3E9-320B711751EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E82E6F-DAFB-4A1B-A3E9-320B711751EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E82E6F-DAFB-4A1B-A3E9-320B711751EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

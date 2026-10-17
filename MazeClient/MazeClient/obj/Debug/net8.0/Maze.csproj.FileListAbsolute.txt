@@ -1,0 +1,4 @@
+C:\Coding\Maze\Maze\obj\Debug\net8.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Maze\Maze\obj\Debug\net8.0\Maze.AssemblyInfoInputs.cache
+C:\Coding\Maze\Maze\obj\Debug\net8.0\Maze.AssemblyInfo.cs
+C:\Coding\Maze\Maze\obj\Debug\net8.0\Maze.csproj.CoreCompileInputs.cache

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MazeServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+099964479ad80bfd2df2be1152135ffb20a65436")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2374fa504e30bb45944d0edc675060316a5590f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MazeServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MazeServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
